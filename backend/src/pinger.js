@@ -141,8 +141,3 @@ function stopPinger() {
 }
 
 module.exports = { startPinger, stopPinger };
-  }
-  console.log("[PINGER] Stopped");
-}
-
-module.exports = { startPinger, stopPinger };
